@@ -1,1 +1,1 @@
-Este es un chatbot para la página web de la escuela de panadería Hatun Yanuna.
+Este es un chatbot para la página web de la escuela de panadería y pastelería Hatun Yanuna.
